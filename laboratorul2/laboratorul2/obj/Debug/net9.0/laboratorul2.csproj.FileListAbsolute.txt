@@ -1,0 +1,14 @@
+C:\Users\Alexandra\Desktop\Cursuri\an3\sem1\.net\laboratorul2\laboratorul2\bin\Debug\net9.0\laboratorul2.exe
+C:\Users\Alexandra\Desktop\Cursuri\an3\sem1\.net\laboratorul2\laboratorul2\bin\Debug\net9.0\laboratorul2.deps.json
+C:\Users\Alexandra\Desktop\Cursuri\an3\sem1\.net\laboratorul2\laboratorul2\bin\Debug\net9.0\laboratorul2.runtimeconfig.json
+C:\Users\Alexandra\Desktop\Cursuri\an3\sem1\.net\laboratorul2\laboratorul2\bin\Debug\net9.0\laboratorul2.dll
+C:\Users\Alexandra\Desktop\Cursuri\an3\sem1\.net\laboratorul2\laboratorul2\bin\Debug\net9.0\laboratorul2.pdb
+C:\Users\Alexandra\Desktop\Cursuri\an3\sem1\.net\laboratorul2\laboratorul2\obj\Debug\net9.0\laboratorul2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandra\Desktop\Cursuri\an3\sem1\.net\laboratorul2\laboratorul2\obj\Debug\net9.0\laboratorul2.AssemblyInfoInputs.cache
+C:\Users\Alexandra\Desktop\Cursuri\an3\sem1\.net\laboratorul2\laboratorul2\obj\Debug\net9.0\laboratorul2.AssemblyInfo.cs
+C:\Users\Alexandra\Desktop\Cursuri\an3\sem1\.net\laboratorul2\laboratorul2\obj\Debug\net9.0\laboratorul2.csproj.CoreCompileInputs.cache
+C:\Users\Alexandra\Desktop\Cursuri\an3\sem1\.net\laboratorul2\laboratorul2\obj\Debug\net9.0\laboratorul2.dll
+C:\Users\Alexandra\Desktop\Cursuri\an3\sem1\.net\laboratorul2\laboratorul2\obj\Debug\net9.0\refint\laboratorul2.dll
+C:\Users\Alexandra\Desktop\Cursuri\an3\sem1\.net\laboratorul2\laboratorul2\obj\Debug\net9.0\laboratorul2.pdb
+C:\Users\Alexandra\Desktop\Cursuri\an3\sem1\.net\laboratorul2\laboratorul2\obj\Debug\net9.0\laboratorul2.genruntimeconfig.cache
+C:\Users\Alexandra\Desktop\Cursuri\an3\sem1\.net\laboratorul2\laboratorul2\obj\Debug\net9.0\ref\laboratorul2.dll
