@@ -14,7 +14,7 @@ namespace laboratorul3.Features.Books.Handlers
         {
             var book = await _context.Books.FindAsync(new object[] { request.Id }, ct);
             if (book == null) return false;
-
+    
             _context.Books.Remove(book);
             await _context.SaveChangesAsync(ct);
             return true;

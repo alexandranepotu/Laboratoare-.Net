@@ -16,9 +16,9 @@ namespace laboratorul3.Controllers
         [HttpPost]
         public async Task<IActionResult> Create([FromBody] BookCreateDto dto)
         {
-            var command = new CreateBookCommand(dto.Title, dto.Author, dto.Year);
-            var id = await _mediator.Send(command);
-            return CreatedAtAction(nameof(GetById), new { id }, id);
+            var command = new CreateBookCommand(dto.Title, dto.Author, dto.Year); //creeaza comanda
+            var id = await _mediator.Send(command); //trimite comanda catre CreateBookHandler
+            return CreatedAtAction(nameof(GetById), new { id }, id);  //201 created
         }
 
         [HttpPut("{id}")]
@@ -37,9 +37,8 @@ namespace laboratorul3.Controllers
             if (!result) return NotFound();
             return NoContent();
         }
-
         [HttpGet("{id}")]
-        public async Task<IActionResult> GetById(int id)
+        public async Task<ActionResult<BookReadDto>> GetById(int id)
         {
             var result = await _mediator.Send(new GetBookByIdQuery(id));
             if (result == null) return NotFound();
@@ -47,10 +46,9 @@ namespace laboratorul3.Controllers
         }
 
         [HttpGet]
-        public async Task<IActionResult> GetAll(int page = 1, int pageSize = 10)
+        public async Task<ActionResult<PaginatedResult<BookReadDto>>> GetAll([FromQuery] int page = 1, [FromQuery] int pageSize = 10)
         {
-            var query = new GetBooksQuery(page, pageSize);
-            var result = await _mediator.Send(query);
+            var result = await _mediator.Send(new GetBooksQuery(page, pageSize));
             return Ok(result);
         }
     }
