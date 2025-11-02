@@ -33,3 +33,10 @@ C:\Users\Alexandra\Desktop\Cursuri\an3\sem1\I.net\laboratorul4\laboratorul4\obj\
 C:\Users\Alexandra\Desktop\Cursuri\an3\sem1\I.net\laboratorul4\laboratorul4\obj\Debug\net9.0\laboratorul4.pdb
 C:\Users\Alexandra\Desktop\Cursuri\an3\sem1\I.net\laboratorul4\laboratorul4\obj\Debug\net9.0\laboratorul4.genruntimeconfig.cache
 C:\Users\Alexandra\Desktop\Cursuri\an3\sem1\I.net\laboratorul4\laboratorul4\obj\Debug\net9.0\ref\laboratorul4.dll
+C:\Users\Alexandra\Desktop\Cursuri\an3\sem1\I.net\laboratorul4\laboratorul4\bin\Debug\net9.0\MediatR.dll
+C:\Users\Alexandra\Desktop\Cursuri\an3\sem1\I.net\laboratorul4\laboratorul4\bin\Debug\net9.0\MediatR.Contracts.dll
+C:\Users\Alexandra\Desktop\Cursuri\an3\sem1\I.net\laboratorul4\laboratorul4\bin\Debug\net9.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Alexandra\Desktop\Cursuri\an3\sem1\I.net\laboratorul4\laboratorul4\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Alexandra\Desktop\Cursuri\an3\sem1\I.net\laboratorul4\laboratorul4\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Alexandra\Desktop\Cursuri\an3\sem1\I.net\laboratorul4\laboratorul4\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Alexandra\Desktop\Cursuri\an3\sem1\I.net\laboratorul4\laboratorul4\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
