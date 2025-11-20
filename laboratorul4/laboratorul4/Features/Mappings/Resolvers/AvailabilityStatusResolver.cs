@@ -1,6 +1,6 @@
 ﻿using AutoMapper;
-using laboratorul4.Entities;
-using laboratorul4.Features.Dtos;
+using laboratorul4.Features.Orders;
+using laboratorul4.Features.Orders.Dtos;
 
 namespace laboratorul4.Features.Mappings.Resolvers;
 

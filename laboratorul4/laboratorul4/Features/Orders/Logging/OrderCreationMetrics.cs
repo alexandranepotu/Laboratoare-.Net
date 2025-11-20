@@ -12,7 +12,7 @@
         public bool Success { get; set; }
         public string? ErrorReason { get; set; }
 
-        // Constructor used for success case (8 args)
+        // Constructor pentru cazul de succes 
         public OrderCreationMetrics(
             string operationId,
             string title,
@@ -33,7 +33,7 @@
             Success = success;
         }
 
-        // Constructor used for failure case (9 args, with error)
+        // Constructor pentru cazul de eroare
         public OrderCreationMetrics(
             string operationId,
             string title,
@@ -49,7 +49,7 @@
             ErrorReason = errorReason;
         }
 
-        // Parameterless ctor left for serializers / existing usages
+        // Constructor gol pentru serializare/deserializare
         public OrderCreationMetrics() { }
     }
 }

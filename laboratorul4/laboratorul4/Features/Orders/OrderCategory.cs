@@ -1,4 +1,4 @@
-﻿namespace laboratorul4.Entities;
+﻿namespace laboratorul4.Features.Orders;
 
 public enum OrderCategory
 {

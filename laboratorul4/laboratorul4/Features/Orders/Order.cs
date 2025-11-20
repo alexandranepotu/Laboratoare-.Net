@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace laboratorul4.Entities;
+﻿namespace laboratorul4.Features.Orders;
 
 public class Order
 {
@@ -14,6 +12,7 @@ public class Order
     public string? CoverImageUrl { get; set; }
     public int StockQuantity { get; set; } = 0;
     public bool IsAvailable => StockQuantity > 0;
+
     public DateTime CreatedAt { get; set; }
     public Order(){}
     

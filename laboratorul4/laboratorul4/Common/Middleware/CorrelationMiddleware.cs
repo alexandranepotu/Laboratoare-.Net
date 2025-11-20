@@ -1,4 +1,4 @@
-﻿namespace laboratorul4.Features.Middleware;
+﻿namespace laboratorul4.Common.Middleware;
 
 public class CorrelationMiddleware
 {
@@ -39,3 +39,4 @@ public class CorrelationMiddleware
         }
     }
 }
+
